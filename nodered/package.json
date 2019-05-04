@@ -1,0 +1,11 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "node-red-contrib-dotnsf-hash": "^0.1.2",
+        "node-red-contrib-google-translate-fixed": "^0.2.1",
+        "node-red-contrib-mongodb2": "^0.5.6"
+    }
+}
